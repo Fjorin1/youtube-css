@@ -1,6 +1,7 @@
 # youtube-css
 
 # Dies war das Abschlussprojekt eines Online-Kurses für CSS-Anfänger, bei dem eine Startseite von YouTube gestaltet wurde.
+Diese Kurs habe ich vor ungefähr einem Jahr gemacht, wurde aber am 6.1.2024  hochgeladen
 
 Bitte erstmal react scripts installieren
 
