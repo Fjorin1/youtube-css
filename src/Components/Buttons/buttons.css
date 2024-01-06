@@ -1,0 +1,169 @@
+.subscribe-btn{
+    background-color: rgb(200, 0, 0);
+    color:white;
+    border: none;
+    border-radius: 2px;
+    padding: 11px;
+    cursor:pointer;
+    margin:8px;
+    transition: opacity 0.14s;
+  }
+  
+  .subscribe-btn:hover{
+    opacity: 0.8;
+  }
+  
+  .subscribe-btn:active{
+    opacity: 0.6;
+  }
+  
+  .join-btn{
+    background-color:white;
+    color:rgb(57, 57, 214);
+    border-radius: 2px;
+    border-color:rgb(57, 57, 214);
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    cursor :pointer;
+    margin:8px;
+    transition: background-color 0.14s, color 0.14s, opacity 0.14s;
+  }
+  
+  .join-btn:hover{
+    background-color:rgb(57, 57, 214);
+    color:white;
+  }
+  
+  .join-btn:active{
+    opacity: 0.8;
+  }
+  
+  
+  
+  .tweet-btn{
+    background-color: rgb(32, 141, 214);
+    color: white;
+    padding: 11px;
+    border:none;
+    border-radius: 17px;
+    font-weight: 700;
+    font-size: 15px;
+    cursor :pointer;
+    margin:8px;
+    transition: box-shadow  0.14s, opacity 0.14s;
+  }
+  
+  
+  .tweet-btn:hover{
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .tweet-btn:active{
+    opacity: 0.9;
+  }
+  
+  .request-btn{
+    background-color: black;
+    color: white;
+    padding: 11px;
+    margin:8px;
+    cursor :pointer;
+    border: none;
+    transition: opacity 0.14s;
+  }
+  
+  .request-btn:hover{
+    opacity: 0.8;
+  }
+  
+  .request-btn:active{
+    opacity: 0.6;
+  }
+  
+  .card-btn{
+    background-color: rgb(243, 210, 61);
+    color: black;
+    padding: 11px;
+    margin: 8px;
+    border: none;
+    border-radius:21px;
+    cursor: pointer;
+    transition: background-color 0.14s, opacity 0.14s;
+  }
+  
+  .card-btn:hover{
+    background-color:rgba(236, 185, 45, 0.945);
+  }
+  
+  .card-btn:active{
+    opacity: 0.8;
+  }
+  
+  
+  .sign-btn{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 11px;
+    margin:8px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: box-shadow 0.14s, opacity 0.14s; 
+  }
+  
+  .sign-btn:hover{
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .sign-btn:active{
+    opacity: 0.8;
+  }
+  
+  .button-65{
+    margin: 8px;
+    background-color: rgb(26, 142, 250);
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.14s, opacity 0.14s;
+  }
+  
+  .button-65:hover{
+    background-color: rgb(24, 123, 216);
+  }
+  
+  .button-65:active{
+    opacity: 0.8;
+  }
+  
+  .back-button{
+    margin-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 9px;
+    padding-right: 9px;
+    cursor: pointer;
+  }
+  
+  .next-button{
+    margin-left: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 9px;
+    padding-right: 9px;
+    cursor: pointer;
+  }
+  
+  a{
+    margin:5px;
+  } 
+  

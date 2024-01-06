@@ -1,0 +1,68 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.first-div {
+  background-color: lightblue;
+  flex: 1;
+}
+
+.second-div {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.Header-flex {
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.first-divvv {
+  background-color: lightblue;
+  width: 100px;
+  border-style: dashed;
+  border-width: 3px;
+}
+
+.second-divvv {
+  background-color: lightpink;
+  width: 100px;
+  border-style: dashed;
+  border-width: 3px;
+}
+.tird-divvv {
+  background-color: lightblue;
+  width: 100px;
+  border-style: dashed;
+  border-width: 3px;
+}
+
+.Header-flex1 {
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Header-flex2 {
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
